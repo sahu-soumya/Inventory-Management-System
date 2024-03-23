@@ -30,7 +30,7 @@ Online Inventory Management Software will help you to manage your product stock 
 * Add new order information
 * View, Update, and remove order information
 #### Reports
-* View the total amount of sales represented on the graphical chart based on yearly.
+* View the total amount of sales represented on the graphical chart based on yearly
 #### Company
 * Update the company information
 * That includes company name, address, phone, message, VAT charge, service charge, and more...
